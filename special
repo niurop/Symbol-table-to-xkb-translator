@@ -1,0 +1,54 @@
+k KKKK n N a A c C b B
+~ TLDE ` ~ ¬ ∨ ∧ ⊢ ⇒ ⇔
+1 AE01 1 !     ¹ ₁ 𝟙 ⒈
+2 AE02 2 @     ² ₂   ⒉
+3 AE03 3 #     ³ ₃   ⒊
+4 AE04 4 $     ⁴ ₄   ⒋
+5 AE05 5 %     ⁵ ₅   ⒌
+6 AE06 6 ^     ⁶ ₆   ⒍
+7 AE07 7 &     ⁷ ₇   ⒎
+8 AE08 8 * ∗ × ⁸ ₈   ⒏
+9 AE09 9 ( ° ÷ ⁹ ₉   ⒐
+0 AE10 0 ) ∘ ∙ ⁰ ₀ ∅ ∞
+- AE11 - _ ± ∓ ⁻ ₋    
+= AE12 = + ≡ ≈ ⁺ ₊ ≔ ≠
+Q AD01 q Q □ ■ √ ∎ ℚ  
+W AD02 w W     ς Σ    
+E AD03 e E ę Ę ε   ∃  
+R AD04 r R     ρ Ρ ℝ ®
+T AD05 t T ⊥ ⊤ τ ∴ 𝕋 𝒯
+Y AD06 y Y     υ      
+U AD07 u U ⋃ ⋂ θ Θ    
+I AD08 i I     ι ∫    
+O AD09 o O ó Ó ✓ ✗    
+P AD10 p P § ¶ π Π ℙ  
+[ AD11 [ { 〖 〔        
+] AD12 ] } 〗 〕        
+| BKSL \ | / − ∤      
+A AC01 a A ą Ą α ∢ ∀  
+S AC02 s S ś Ś σ Σ 𝕊  
+D AC03 d D ∂ ∇ δ Δ ◊  
+F AC04 f F     φ Φ 𝔽  
+G AC05 g G     γ Γ    
+H AC06 h H     η      
+J AC07 j J     ξ Ξ    
+K AC08 k K     κ   𝕂  
+L AC09 l L ł Ł λ Λ   ℒ
+; AC10 ; :            
+' AC11 ' " „ ”        
+Z AB01 z Z ż Ż ζ   ℤ  
+X AB02 x X ź Ź χ      
+C AB03 c C ć Ć ψ Ψ ℂ ©
+V AB04 v V     ω Ω 𝕍 𝒱
+B AB05 b B ○ ● β ∵ 𝔹 ℬ
+N AB06 n N ń Ń ν   ℕ  
+M AB07 m M     μ      
+, AB08 , < ≤ ≼ ⊂ ⊆ ∈ ∉
+. AB09 . > ≥ ≽ ⊃ ⊇ ∋ ∌
+/ AB10 / ? ¿ ⏎        
+s SPCE ␠   ␣ ⍽ ⋯ ⋮ ⋰ ⋱
+\ LSGT → ↯ ↑ ↓ ↗ ↘ … ∥
+k KKKK n N a A c C b B
+  NoSymbol
+␠ space
+  nobreakspace
